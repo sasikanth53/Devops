@@ -1,0 +1,5 @@
+[root@devops1 Devops]# ls Devops/
+Jenkinsfile  Madhu File  README.md  shell.sh
+[root@devops1 Devops]# git clone https://github.com/sasikanth53/Devops/
+fatal: destination path 'Devops' already exists and is not an empty directory.
+
